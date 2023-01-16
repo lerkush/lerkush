@@ -1,7 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=lerkush&show_icons=true">
-
 # Merhaba, ben Lütfiye ERKUŞ! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lerkush" alt="lerkush" /> </p>
+
+[![Lerkush's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerkush&count_private=true)](https://github.com/lerkush/github-readme-stats)
 
 [![](https://img.shields.io/twitter/follow/lerkush?style=social)](https://www.twitter.com/lerkush)
 [![](https://img.shields.io/github/followers/lerkush?style=social)](https://www.github.com/lerkush)
