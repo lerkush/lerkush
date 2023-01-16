@@ -1,7 +1,12 @@
 # Merhaba, ben Lütfiye ERKUŞ! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lerkush" alt="lerkush" /> </p>
 
-[![Lerkush's GitHub stats](https://github-readme-stats.vercel.app/api?username=lerkush&count_private=true)](https://github.com/lerkush/github-readme-stats)
+[![Lerkush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lerkush&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lerkush/github-readme-stats#gh-dark-mode-only)
+[![Lerkush's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lerkush&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lerkush/github-readme-stats#gh-light-mode-only)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lerkush&layout=compact)](https://github.com/lerkush/github-readme-stats)
 
 [![](https://img.shields.io/twitter/follow/lerkush?style=social)](https://www.twitter.com/lerkush)
 [![](https://img.shields.io/github/followers/lerkush?style=social)](https://www.github.com/lerkush)
