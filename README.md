@@ -13,7 +13,7 @@
 
 
 <!-- [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/) !-->
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/lerkush/)
+[![]([](https://img.icons8.com/color/512/tableau-software.png))]([[https://img.icons8.com/color/512/tableau-software.png](https://public.tableau.com/app/profile/lerkush/vizzes)/](https://public.tableau.com/app/profile/lerkush/vizzes))
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerkush/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lerkush)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lutfiyeerkus)
