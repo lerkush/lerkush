@@ -17,4 +17,4 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lerkush/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lerkush)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lutfiyeerkus)
-[![Mail Badge](https://img.shields.io/badge/lutfiyeerkus1@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lutfiyye@gmail.com)](mailto:lutfiyye@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/lutfiyye@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lutfiyye@gmail.com)](mailto:lutfiyye@gmail.com)
