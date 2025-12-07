@@ -28,7 +28,7 @@
 class LutfiyeErkus:
     def __init__(self):
         self.name = "Lütfiye ERKUŞ"
-        self.role = "Data Scientist & BI Analyst"
+        self.role = "Data Analyst & BI Analyst"
         self.location = "Ankara, Turkey 🇹🇷"
         self.education = "Gazi University"
         self.pronouns = "She/Her"
