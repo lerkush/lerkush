@@ -22,7 +22,7 @@
 
 ### 👩‍💻 About Me
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> I'm a **Data Scientist** and **BI Analyst** passionate about turning data into impactful stories and contributing to tech communities.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> I'm a **Data Analyst** and **BI Analyst** passionate about turning data into impactful stories and contributing to tech communities.
 
 ```python
 class LutfiyeErkus:
