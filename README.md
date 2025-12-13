@@ -253,10 +253,10 @@ print(f"💜 {me.mission}")
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Feedback Platform</h3>
+      <h3 align="center">Feedback Me</h3>
       <div align="center">
-        <a href="https://github.com/lerkush/feedback-platform">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lerkush&repo=feedback-platform&theme=radical&bg_color=0d1117&hide_border=true&border_radius=15&title_color=8A2BE2&icon_color=DA70D6&text_color=fff" />
+        <a href="https://github.com/lerkush/feedbackme">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lerkush&repo=feedbackme&theme=radical&bg_color=0d1117&hide_border=true&border_radius=15&title_color=8A2BE2&icon_color=DA70D6&text_color=fff" />
         </a>
         <p><strong>Full Stack</strong> - Real-time feedback collection and analysis platform</p>
       </div>
